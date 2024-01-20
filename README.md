@@ -11,8 +11,11 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
   - [Second largest element in the array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Second%20largest%20element%20in%20the%20array)
   - [Rotate array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Rotate%20array)
 - **Day 2:**
-  - [Equilibrium Index](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Second%20largest%20element%20in%20the%20array)
+  - [Equilibrium Index](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Equilibrium%20Index)
   - [First Missing Positive](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/First%20Missing%20Positive)
+- **Day 3:**
+  - [Make Unique Array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Make%20Unique%20Array)
+  - [Pair Sum](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Pair%20Sum)
 
 ## Motivation 🌟
 
