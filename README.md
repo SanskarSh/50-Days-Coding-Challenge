@@ -16,6 +16,9 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
 - **Day 3:**
   - [Make Unique Array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Make%20Unique%20Array)
   - [Pair Sum](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Pair%20Sum)
+- **Day 4:**
+  - [Bubble Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Bubble%20Sort)
+  - [Selection Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Selection%20Sort)
 
 ## Motivation 🌟
 
