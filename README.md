@@ -19,6 +19,8 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
 - **Day 4:**
   - [Bubble Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Bubble%20Sort)
   - [Selection Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Selection%20Sort)
+- **Day 5:**
+  - [Insertion Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Insertion%20Sort)
 
 ## Motivation 🌟
 
