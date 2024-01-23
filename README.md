@@ -21,6 +21,13 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
   - [Selection Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Selection%20Sort)
 - **Day 5:**
   - [Insertion Sort](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Insertion%20Sort)
+- **Day 6:**
+  - [Reverse String Word Wise](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Reverse%20String%20Word%20Wise)
+  - [Search In Rotated Sorted Array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Search%20In%20Rotated%20Sorted%20Array)
+  - [Move Zeroes To End](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Move%20Zeroes%20To%20End)
+  - [Maximum Subarray Sum](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Maximum%20Subarray%20Sum)
+  - [Second largest element in the array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Intersection%20Of%20Two%20Sorted%20Arrays)
+
 
 ## Motivation 🌟
 
