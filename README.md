@@ -7,6 +7,7 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
 ## Progress 📈
 
 ### Array and Strings
+
 - **Day 1:**
   - [Second largest element in the array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Second%20largest%20element%20in%20the%20array)
   - [Rotate array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Rotate%20array)
@@ -27,7 +28,10 @@ I have taken up the challenge to solve programming questions from Leetcode for 5
   - [Move Zeroes To End](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Move%20Zeroes%20To%20End)
   - [Maximum Subarray Sum](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Maximum%20Subarray%20Sum)
   - [Second largest element in the array](https://github.com/SanskarSh/50-Days-Coding-Challenge/tree/main/Intersection%20Of%20Two%20Sorted%20Arrays)
-
+- **Day 7:**
+  - [Set Zero Matrix](https://github.com/SanskarSh/50-Days-Coding-Challenge/blob/main/Set%20Matrix%20Zeros/Solution.py)
+  - [Pascal’s Triangle](https://github.com/SanskarSh/50-Days-Coding-Challenge/blob/main/Pascal’s%20Triangle/Solution.py)
+  - [Two Sum](https://github.com/SanskarSh/50-Days-Coding-Challenge/blob/main/Two%20Sum/Solution.py)
 
 ## Motivation 🌟
 
